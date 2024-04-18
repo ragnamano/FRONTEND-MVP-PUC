@@ -1,0 +1,15 @@
+.botão{
+    background-color: #6276f7;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 32px;
+    border: none;
+    cursor: pointer;
+    color: #ffff;
+    margin: 32px 0;
+}
+
+.botão:hover{
+    color: #95ffd4;
+}
